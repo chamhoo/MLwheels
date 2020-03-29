@@ -1,0 +1,22 @@
+# data file
+*.csv
+*.data
+
+# jupyter support file
+.ipynb_checkpoints/
+
+# pycharm config file
+*.idea
+
+# Auto-generated .pyc folders
+__pycache__/
+
+# pyc file
+*.pyc
+
+# Mac config file
+.DS_Store
+
+# Tempile file
+test.py
+.checkpoint/
