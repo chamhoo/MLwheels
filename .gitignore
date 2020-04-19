@@ -4,9 +4,11 @@
 
 # jupyter support file
 .ipynb_checkpoints/
+.ipynb_checkpoints
 
 # pycharm config file
 *.idea
+.idea
 
 # Auto-generated .pyc folders
 __pycache__/
